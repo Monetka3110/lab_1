@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Страница-1" id="PYCtcsNzis3fY9NdF4zh">
+    <mxGraphModel dx="1406" dy="788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fmPyldOCkFnTQjPo43st-30" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="fmPyldOCkFnTQjPo43st-26" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="414" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-31" connectable="0" parent="fmPyldOCkFnTQjPo43st-30" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Создает" vertex="1">
+          <mxGeometry relative="1" x="0.4" y="2" as="geometry">
+            <mxPoint x="-2" y="-15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-24" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" value="Сотрудник" vertex="1">
+          <mxGeometry height="60" width="30" x="399" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-32" edge="1" parent="1" source="fmPyldOCkFnTQjPo43st-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fmPyldOCkFnTQjPo43st-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-33" connectable="0" parent="fmPyldOCkFnTQjPo43st-32" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Закрепляет за собой" vertex="1">
+          <mxGeometry relative="1" x="-0.15" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-26" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="Бронирование" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-34" edge="1" parent="1" source="fmPyldOCkFnTQjPo43st-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fmPyldOCkFnTQjPo43st-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-35" connectable="0" parent="fmPyldOCkFnTQjPo43st-34" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Находится в" vertex="1">
+          <mxGeometry relative="1" x="-0.0278" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-36" edge="1" parent="1" source="fmPyldOCkFnTQjPo43st-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="fmPyldOCkFnTQjPo43st-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-37" connectable="0" parent="fmPyldOCkFnTQjPo43st-36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Оснащено" vertex="1">
+          <mxGeometry relative="1" x="0.04" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-27" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Рабочее место" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Офисная зона" vertex="1">
+          <mxGeometry height="60" width="120" x="240" y="500" as="geometry" />
+        </mxCell>
+        <mxCell id="fmPyldOCkFnTQjPo43st-29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Оборудование" vertex="1">
+          <mxGeometry height="60" width="120" x="474" y="500" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
